@@ -1,0 +1,2 @@
+Los números pares de la serie Fibonacci hasta 1,000,000 son: 
+0, 2, 8, 34, 144, 610, 2584, 10946, 46368, 196418, 832040, 
